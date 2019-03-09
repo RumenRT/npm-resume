@@ -1,0 +1,30 @@
+{
+  "Education & Certification": [
+    "AWS Certified Solutions Architect - Associate, 2019",
+    "Wyncode Academy, Miami FL - Full Stack Web Development Bootcamp,2018",
+    "University of Plovdiv, Plovdiv, Bulgaria - Bachelor’s in International Business, 2009"
+    
+  ],
+  "Past Experience": [
+    "Full Stack Web Developer - Freelance, Ft Lauderdale FL  Nov 2018-present",
+    "Sr. Account Manager/Analyst - Partsbase Inc., Boca Raton FL  Jun 2013-May 2018",
+    "Travel Agent - Air Berlin Americas Inc., Miami  FL  Apr 2010-Jun 2013",
+    "Supply Chain Manager - Juri Gagarin Plc, Plovdiv Bulgaria  Jan 2008-Apr 2010",
+    "Travel Agent - Air Berlin Americas Inc., Miami FL  Apr  2010-Jun 2013",
+    "IT Consultant, Sales - SIV.BG Eood, Plovdiv Bulgaria  Jan 2007-Jan 2008"
+  ],
+  "Tech Stack": [
+    "JavaScript", "React", "NodeJS", "jQuery", "Axios", "Express", "HTML", "CSS",
+    "Ruby", "Ruby on Rails", "SQL", "PostgreSQL", "Git", "GitHub", "MongoDB", "Heroku", "AWS", "Agile/Scrum Methodology", "GDS/Amadeus", "Python/Django", "Kali Linux"
+  ],
+  "Projects": [
+    "Spearheaded a team which developed and designed Favors, a map-based quest app that breeds trust by creating a network of good people helping each other with small everyday tasks. Utilizing Devise and Geocoder gem at the back-end, React with Mapbox GL at the front-end. Tech: Ruby on Rails, React, Mapbox GL, JavaScript, Axios, jQuery, Bootstrap, HTML, CSS, PostgreSQL, Heroku",
+    "instaPoetry app, a search engine for poetry, allowing users to share poetry pieces via social media. Tech: React, Axios, JavaScript, HTML, CSS, pDB API",
+    "Asynchronous chat app, powered by Rails 5.1 and ActionCable, utilizing Clearance, Shrine and FileReader API for file uploading Tech: Ruby on Rails, FileReader API",
+    "Real Estate App Tech: Python/Django, HTML, CSS, Bootstrap, PostgreSQL",
+    "Alexa Skill utilizing AWS Lambda, AWS Polly, AWS S3 and NodeJS"
+  ],
+  "Contact": [
+    "33309rt@gmail.com"
+  ]
+}
