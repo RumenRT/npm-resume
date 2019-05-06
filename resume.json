@@ -1,5 +1,6 @@
 {
   "Education & Certification": [
+    "Complete Selenium Ruby Automation Engineer Bootcamp",
     "AWS Certified Solutions Architect - Associate, 2019",
     "Wyncode Academy, Miami FL - Full Stack Web Development Bootcamp,2018",
     "University of Plovdiv, Plovdiv, Bulgaria - Bachelor’s in International Business, 2009"
@@ -15,16 +16,18 @@
   ],
   "Tech Stack": [
     "JavaScript", "React", "NodeJS", "jQuery", "Axios", "Express", "HTML", "CSS",
-    "Ruby", "Ruby on Rails", "SQL", "PostgreSQL", "Git", "GitHub", "MongoDB", "Heroku", "AWS", "Agile/Scrum Methodology", "GDS/Amadeus", "Python/Django", "Kali Linux"
+    "Ruby", "Ruby on Rails", "SQL", "PostgreSQL", "Git", "GitHub", "MongoDB", "Heroku", "AWS", "Agile/Scrum Methodology", "GDS/Amadeus", "Python/Django", "Kali Linux", "Selenium WebDriver/DDF/ATDD/Cucumber", "Google Tag Manager/Google Analytics"
   ],
   "Projects": [
     "Spearheaded a team which developed and designed Favors, a map-based quest app that breeds trust by creating a network of good people helping each other with small everyday tasks. Utilizing Devise and Geocoder gem at the back-end, React with Mapbox GL at the front-end. Tech: Ruby on Rails, React, Mapbox GL, JavaScript, Axios, jQuery, Bootstrap, HTML, CSS, PostgreSQL, Heroku",
     "instaPoetry app, a search engine for poetry, allowing users to share poetry pieces via social media. Tech: React, Axios, JavaScript, HTML, CSS, pDB API",
     "Asynchronous chat app, powered by Rails 5.1 and ActionCable, utilizing Clearance, Shrine and FileReader API for file uploading Tech: Ruby on Rails, FileReader API",
     "Real Estate App Tech: Python/Django, HTML, CSS, Bootstrap, PostgreSQL",
-    "Alexa Skill utilizing AWS Lambda, AWS Polly, AWS S3 and NodeJS"
+    "Serverless webpage converting text to speech using Python, AWS Lambda, Polly, S3, DynamoDB, API Gateway, SNS",
+    "Alexa Skill My Polly Skill utilizing AWS Lambda, CloudFormation, S3, NodeJS"
   ],
   "Contact": [
-    "33309rt@gmail.com"
+    "33309rt@gmail.com",
+    
   ]
 }
